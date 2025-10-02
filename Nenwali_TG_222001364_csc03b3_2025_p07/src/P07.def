@@ -1,0 +1,4 @@
+LIBRARY P07
+EXPORTS aliquotSum
+EXPORTS classify
+EXPORTS classify_array
