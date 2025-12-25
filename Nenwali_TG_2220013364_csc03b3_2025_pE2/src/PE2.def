@@ -1,0 +1,2 @@
+LIBRARY PE2
+EXPORTS countsubstring
